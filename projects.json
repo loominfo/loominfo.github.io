@@ -1,14 +1,6 @@
-[
-{
-"token":"0x669ff88a0867c522ab937dab58d48aa2460bc74f",
-"logo": "https://loominfo.github.io/bsc/0x669ff88a0867c522ab937dab58d48aa2460bc74f/logo.png",
-"cover": "https://loominfo.github.io/bsc/0x669ff88a0867c522ab937dab58d48aa2460bc74f/logo.svg",
-"info": "https://loominfo.github.io/bsc/0x669ff88a0867c522ab937dab58d48aa2460bc74f/info.json"
-},
-{
-"token":"0x571505d3a5630b77ebdc2bfa8783c7702c3d2198",
-"logo": "https://loominfo.github.io/bsc/0x571505d3a5630b77ebdc2bfa8783c7702c3d2198/logo.png",
-"cover": "https://loominfo.github.io/bsc/0x571505d3a5630b77ebdc2bfa8783c7702c3d2198/cover.png",
-"info": "https://loominfo.github.io/bsc/0x571505d3a5630b77ebdc2bfa8783c7702c3d2198/info.json"
-}
-]
+[{
+	"token": "0x669ff88a0867c522ab937dab58d48aa2460bc74f",
+	"logo": "https://loominfo.github.io/bsc/0x669ff88a0867c522ab937dab58d48aa2460bc74f/logo.png",
+	"cover": "https://loominfo.github.io/bsc/0x669ff88a0867c522ab937dab58d48aa2460bc74f/logo.svg",
+	"info": "https://loominfo.github.io/bsc/0x669ff88a0867c522ab937dab58d48aa2460bc74f/info.json"
+}]
