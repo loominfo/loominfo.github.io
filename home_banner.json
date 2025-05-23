@@ -5,5 +5,11 @@
         "link": "https://www.baidu.com/",
         "imgUrl": "https://loominfo.github.io/banner_1.png",
         "timestamp": 1747963609000
+    },
+    {
+        "index": 2,
+        "day": 7,
+        "link": "https://openloom.me/",
+        "imgUrl": "https://loominfo.github.io/banner_2.png"
     }
 ]
