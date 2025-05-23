@@ -12,5 +12,19 @@
         "link": "https://openloom.me/",
         "imgUrl": "https://loominfo.github.io/banner_2.jpg",
         "timestamp": 1747963609000
+    },
+    {
+        "index": 3,
+        "day": 7,
+        "link": "https://openloom.me/",
+        "imgUrl": "https://loominfo.github.io/banner_3.png",
+        "timestamp": 1747963609000
+    },
+    {
+        "index": 0,
+        "day": 7,
+        "link": "https://openloom.me/",
+        "imgUrl": "https://loominfo.github.io/banner_0.png",
+        "timestamp": 1747963609000
     }
 ]
