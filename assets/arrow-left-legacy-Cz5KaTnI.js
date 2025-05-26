@@ -1,0 +1,1 @@
+System.register(["./index-legacy-_XTXuV3T.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.Z}],execute:function(){e("A",r("ArrowLeft",[["path",{d:"m12 19-7-7 7-7",key:"1l729n"}],["path",{d:"M19 12H5",key:"x3x0zl"}]]))}}}));
