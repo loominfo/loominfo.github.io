@@ -1,1 +1,0 @@
-import{b7 as n,b8 as a}from"./index-CIGihVX8.js";async function i(i,t={}){const{chainId:c,...e}=t,o=i.getClient({chainId:c}),s=n(o,a,"getBlock");return{...await s(e),chainId:o.chain.id}}export{i as g};
