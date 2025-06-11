@@ -1,6 +1,6 @@
 {
-    "version": "1.0.2",
-    "content": "",
+    "version": "1.0.3",
+    "content": "修复已知UI问题",
     "url": "https://openloom.me/mobileterminal/openloom_latest.apk",
     "downloadPageUrl": "https://openloom.me/#/home"
 }
