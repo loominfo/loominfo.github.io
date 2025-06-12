@@ -1,1 +1,0 @@
-import{b8 as n,b9 as a}from"./index-UQUKXc1b.js";async function i(i,t={}){const{chainId:c,...e}=t,o=i.getClient({chainId:c}),s=n(o,a,"getBlock");return{...await s(e),chainId:o.chain.id}}export{i as g};
