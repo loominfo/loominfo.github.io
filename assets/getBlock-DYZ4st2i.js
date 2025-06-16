@@ -1,1 +1,0 @@
-import{b9 as a,ba as n}from"./index-BYI_izSd.js";async function i(i,t={}){const{chainId:c,...e}=t,o=i.getClient({chainId:c}),s=a(o,n,"getBlock");return{...await s(e),chainId:o.chain.id}}export{i as g};
