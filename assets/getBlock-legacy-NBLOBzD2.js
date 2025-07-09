@@ -1,0 +1,1 @@
+System.register(["./index-legacy-9qvwApTF.js"],(function(t,e){"use strict";var n,c;return{setters:[t=>{n=t.bb,c=t.bc}],execute:function(){t("g",(async function(t,e={}){const{chainId:i,...a}=e,r=t.getClient({chainId:i}),s=n(r,c,"getBlock");return{...await s(a),chainId:r.chain.id}}))}}}));
