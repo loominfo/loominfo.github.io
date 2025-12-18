@@ -1,1 +1,0 @@
-System.register(["./index-legacy-BTP2w3NH.js"],(function(t,e){"use strict";var n,c;return{setters:[t=>{n=t.bc,c=t.bd}],execute:function(){t("g",(async function(t,e={}){const{chainId:i,...a}=e,r=t.getClient({chainId:i}),s=n(r,c,"getBlock");return{...await s(a),chainId:r.chain.id}}))}}}));
