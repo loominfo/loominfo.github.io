@@ -1,0 +1,1 @@
+import{c as s,e as t,bg as e,bh as o}from"./index-CjmPGWak.js";function a(){const a=s.c(3),n=t.useContext(e),r=t.useContext(o);let u;return a[0]!==r||a[1]!==n?(u={toast:n,message:r},a[0]=r,a[1]=n,a[2]=u):u=a[2],u}export{a as u};
