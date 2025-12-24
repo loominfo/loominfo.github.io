@@ -1,1 +1,0 @@
-System.register(["./index-legacy-B3XxtEkQ.js"],(function(e,t){"use strict";var r,n,c;return{setters:[e=>{r=e.c,n=e.e,c=e.be}],execute:function(){e("u",(function(){const e=r.c(2),t=n.useContext(c);let o;return e[0]!==t.role?(o={role:t.role},e[0]=t.role,e[1]=o):o=e[1],o}))}}}));

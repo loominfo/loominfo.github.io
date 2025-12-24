@@ -1,1 +1,0 @@
-System.register(["./index-legacy-B3XxtEkQ.js","./getBlock-legacy-BB949J1T.js"],(function(e,t){"use strict";var n,c;return{setters:[e=>{n=e.af},e=>{c=e.g}],execute:function(){e("g",(async function(e,t={}){const{chainId:i,...a}=t,s=e.getClient({chainId:i}),r=n(s,c,"getBlock");return{...await r(a),chainId:s.chain.id}}))}}}));

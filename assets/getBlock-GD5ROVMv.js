@@ -1,1 +1,0 @@
-import{af as a}from"./index-CjmPGWak.js";import{g as i}from"./getBlock-X5MS-QDo.js";async function n(n,t={}){const{chainId:c,...o}=t,e=n.getClient({chainId:c}),r=a(e,i,"getBlock");return{...await r(o),chainId:e.chain.id}}export{n as g};
